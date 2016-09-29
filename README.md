@@ -1,6 +1,6 @@
 # CIS-688
 
-Object Oriented Programming
+Secure and Dependable Computing
 
 Select content available. 
 
